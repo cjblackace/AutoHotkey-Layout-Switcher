@@ -4,6 +4,8 @@
 УСТАНОВКА:
 1. Установите программу [AutoHotkey 2](https://www.autohotkey.com/);
 2. Отключите все горячие клавиши, переключающие раскладку в Windows:
+Win+I -> Время и Язык -> Добавление языка -> Японский
+3. Отключите все горячие клавиши, переключающие раскладку в Windows:
 Win+I -> Время и Язык -> Язык -> Клавиатура -> Сочетания клавиш для языков ввода -> Установить все сочетания на (Нет);
-3. Скачайте [Layout.ahk](https://raw.githubusercontent.com/cjblackace/AutoHotkey-Layout-Switcher/refs/heads/main/Layout.ahk);
-4. Переместите Layout.ahk в папку "Автозагрузка".
+4. Скачайте [Layout.ahk](https://raw.githubusercontent.com/cjblackace/AutoHotkey-Layout-Switcher/refs/heads/main/Layout.ahk);
+5. Переместите Layout.ahk в папку "Автозагрузка".

@@ -13,3 +13,6 @@
 
 4. Скачайте [Layout.ahk](https://raw.githubusercontent.com/cjblackace/AutoHotkey-Layout-Switcher/refs/heads/main/Layout.ahk)
 5. Переместите Layout.ahk в папку "Автозагрузка" и перезагрузитесь.
+
+Известные проблемы:
+• Скрипт может конфликтовать с программами Adobe
